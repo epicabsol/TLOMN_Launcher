@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TLOMN Launcher", "TLOMN Launcher\TLOMN Launcher.vbproj", "{19E161E4-5D8A-48A1-83F2-3F1478DB21DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E161E4-5D8A-48A1-83F2-3F1478DB21DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E161E4-5D8A-48A1-83F2-3F1478DB21DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E161E4-5D8A-48A1-83F2-3F1478DB21DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E161E4-5D8A-48A1-83F2-3F1478DB21DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5431E11A-D7F3-45AC-9192-E43D337F4E88}
+	EndGlobalSection
+EndGlobal
